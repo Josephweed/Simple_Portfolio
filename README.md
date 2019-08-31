@@ -1,2 +1,5 @@
 # Simple_Portfolio
-A simple portfolio website
+
+Hello guy!
+
+JOSEPH here, Im aspiring to become a full stack developer.
